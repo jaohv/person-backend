@@ -16,7 +16,7 @@ O projeto possui as seguintes funcionalidades:
 - Criar uma pessoa
 - Editar uma pessoa
 - Excluir uma pessoa
-- Listar todoas as pessoas
+- Listar todas as pessoas
 
 ## Como instalar
 - Abra o seu terminal e digite os seguintes comandos:
@@ -35,7 +35,7 @@ docker compose -up -d
 
 ```
 npx prisma generate
-npx prsima migrate dev
+npx prisma migrate dev
 npm run dev
 ```
 
